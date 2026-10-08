@@ -52,3 +52,7 @@ function mostrarStock (productoChecar){
 
 }
 console.log ("Fin de la lista");
+
+function contarTareas (){
+    return tareas.length;
+}
