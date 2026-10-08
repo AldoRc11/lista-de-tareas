@@ -1,1 +1,1 @@
-color favorito: azul
+color favorito: verde
