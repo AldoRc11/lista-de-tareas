@@ -55,4 +55,5 @@ console.log ("Fin de la lista");
 
 function contarTareas (){
     return tareas.length;
-} //Proyecto: lista de tareas
+} //Proyecto: lista de tareas 
+//Cambio hecho desde la prueba
